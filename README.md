@@ -19,14 +19,14 @@ Each problem contains its own README with the reasoning, assumptions, and techni
 ```text
 src/
 ├── problem1/
-│   ├── solution.js
+│   ├── index.js
 │   └── README.md
 ├── problem2/
 │   ├── README.md
 │   ├── package.json
 │   └── src/
 └── problem3/
-    ├── WalletPage.refactored.tsx
+    ├── wallet-page.tsx
     └── README.md
 ```
 
